@@ -1,2 +1,2 @@
 # FloripaTec
-Aunla sobre Git e Github
+Aula sobre Git e Github
